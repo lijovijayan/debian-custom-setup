@@ -14,6 +14,7 @@
     sudo modprobe rtl8723be
     echo "options rtl8723de ant_sel=1" | sudo tee /etc/modprobe.d/rtl8723de.conf
 ```
+[refer] (https://h30434.www3.hp.com/t5/Notebook-Wireless-and-Networking/Realtek-8723DE-wifi-module-amp-Bluetooth-Linux-driver/td-p/6477307)
     
 ## arc-dark theme installation
 ```sh
