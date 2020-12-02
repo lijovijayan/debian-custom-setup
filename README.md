@@ -1,6 +1,6 @@
 # debian-custom-setup
 
-## realtech wifi driver installation (optional)
+## realtek wifi driver installation (optional)
 
 - clone https://github.com/lijovijayan/rtlwifi_new
 - change directory to rtlwifi_new
